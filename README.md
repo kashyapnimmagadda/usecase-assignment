@@ -1,1 +1,5 @@
-# usecase-assignment
+# usecase-assignment(Banking Appliction)
+Attached the Source code (Both index.jsp and servlet2.java)
+I attached the screenshots of the index2.jsp code and servlet.java code....
+also the screenshots of MYSQL database tables(Both balance and transactions tables) before and after the fund transfer....
+attached the Output screenshots also.
